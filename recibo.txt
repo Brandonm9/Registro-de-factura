@@ -1,0 +1,9 @@
+
+Id del recibo:  Fecha de emision de este recibo: 25/04/2023
+Nombre del vendedor: Luis Id del vendedor: Z9Kui3CV
+Nombre del comprador: Brandon Id del comprador: 3s4K9vKU
+Nombre de productos   Cantidad    Precio
+Pasta    6  154.02
+vino    3  285.9
+Leche    3  44.97
+Total: 484.89
